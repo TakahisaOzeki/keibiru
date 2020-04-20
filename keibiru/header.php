@@ -22,6 +22,7 @@
       <meta name="description" content="虫歯から子供を守る３つの予防法とは？生えたての歯はケアがとても重要です。多摩市聖蹟桜ヶ丘駅から徒歩1分のけいびる歯科医院では、全員のお子さまに、フッ素を無料でおこなっております。小さなお子さまの託児も可能です。">
 
     <?php endif ?> -->
+
     <!-- <?php if (is_page('implant')): ?>
       <meta name="description" content="インプラント、ブリッジ、入れ歯のメリットとデメリットを説明しています。多摩市聖蹟桜ヶ丘駅から徒歩1分のけいびる歯科医院は、こだわって厳選した2社のインプラントを使用。他院で断られた難しい症例でもおこなっています。">
 
@@ -188,8 +189,8 @@
               <p>042-337-4388</p>
             </div>
             <div class="tel_time">
-              <p>受付時間 09:00〜20:00</p>
-              <p>土日・祝 14:00〜16:00</p>
+              <p>電話受付 9:00〜20:00</p>
+              <p>土 9:00〜17:00　日・祝 9:00〜16:00</p>
             </div>
           </div>
           <img class="menu_btn" src="<?php echo get_template_directory_uri() ?>/img/menu_light.png" alt="メニューボタン">
@@ -209,7 +210,7 @@
                 <div class="number_cover">
                   <img class="tel_icon_sp" src="<?php echo get_template_directory_uri() ?>/img/tel_icon_sp.png" alt="TELアイコン">
                   <div class="tel_time_sp">
-                  <p class="number">042-337-4388<br><span>受付 09:00〜20:00/土日祝 14:00〜16:00 </spna></p>
+                  <p class="number">042-337-4388<br><span>電話受付 9:00〜20:00【土〜17:30/日祝〜16:00】 </spna></p>
                   </div>
                 </div>
               </div>
