@@ -189,8 +189,8 @@
               <p>042-337-4388</p>
             </div>
             <div class="tel_time">
-              <p>受付時間 09:00〜20:00</p>
-              <p>土日・祝 14:00〜16:00</p>
+              <p>電話受付 9:00〜20:00</p>
+              <p>土 9:00〜17:00　日・祝 9:00〜16:00</p>
             </div>
           </div>
           <img class="menu_btn" src="<?php echo get_template_directory_uri() ?>/img/menu_light.png" alt="メニューボタン">
