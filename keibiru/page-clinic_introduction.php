@@ -9,7 +9,7 @@ get_header();
 
   <div class="wrap">
     <div class="category_title">
-      <h1 class="category_txt midashi01">医院紹介</h1>
+      <h1 class="category_txt midashi01">院内の紹介</h1>
       <!-- <p class="small_txt">Reception time</p> -->
     </div>
     <div class="clinic_title flex_between flex_center">
