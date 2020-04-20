@@ -95,7 +95,7 @@ get_header();
   <div class="background_color">
     <div class="wrap">
       <div class="staff_photo_cover">
-        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_03.jpg" alt="歯科医師 スタッフ1">
+        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_03.jpg" alt="歯科医師 スタッフ">
       </div>
       <div class="docter_name">
         <p class="staff_name txt_bold">
@@ -129,7 +129,7 @@ get_header();
   <div class="background_color02">
     <div class="wrap">
       <div class="staff_photo_cover">
-        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_04.jpg" alt="歯科医師 スタッフ2">
+        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_04.jpg" alt="歯科医師 スタッフ">
       </div>
       <div class="docter_name">
         <p class="staff_name txt_bold">
@@ -163,7 +163,7 @@ get_header();
   <div class="background_color">
     <div class="wrap">
       <div class="staff_photo_cover">
-        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_09.jpg" alt="歯科医師 スタッフ3">
+        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_09.jpg" alt="歯科医師 スタッフ">
       </div>
       <div class="docter_name">
         <p class="staff_name txt_bold">
@@ -198,7 +198,7 @@ get_header();
   <div class="background_color02">
     <div class="wrap">
       <div class="staff_photo_cover">
-        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_05.jpg" alt="歯科医師 スタッフ4">
+        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_05.jpg" alt="歯科医師 スタッフ">
       </div>
       <div class="docter_name">
         <p class="staff_name txt_bold">
@@ -232,7 +232,7 @@ get_header();
   <div class="background_color">
     <div class="wrap">
       <div class="staff_photo_cover">
-        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_10.jpg" alt="歯科医師 スタッフ5">
+        <img class="staff_photo" src="<?php echo get_template_directory_uri() ?>/img/staff_10.jpg" alt="歯科医師 スタッフ">
       </div>
       <div class="docter_name">
         <p class="staff_name txt_bold">
