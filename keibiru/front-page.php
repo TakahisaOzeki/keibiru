@@ -163,8 +163,8 @@ get_header();
               <td class="colspan_txt" colspan="9">
                 休診日:無し(年中無休)休日も診療<br>
                 ※土曜・日曜・祝祭日の午後の診療時間<br>
-                <span class="saturday">土曜</span>14:30~17:30<br>
-                <span class="holiday">日祝</span>14:00~16:00
+                <span class="saturday">土曜</span>14:30〜17:30<br>
+                <span class="holiday">日祝</span>14:00〜16:00
               </td>
             </tr>
           </tbody>
