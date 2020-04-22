@@ -36,7 +36,7 @@
         </div>
       </div>
       <p class="copyright">
-        Copyright © 多摩市 聖蹟桜ヶ丘 けいびる歯科医院. All Rights Reserved
+        Copyright © 多摩市 聖蹟桜ヶ丘 けいびる歯科医院 All Rights Reserved.
       </p>
     </div>
   </footer>
