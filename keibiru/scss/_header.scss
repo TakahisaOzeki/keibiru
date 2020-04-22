@@ -110,13 +110,13 @@ header {
           text-align: center;
           border: 1px solid white;
           border-radius: 8px;
-          padding: 2px;
+          padding: 5px;
         }
         .number_cover {
           display: flex;
           justify-content: space-between;
           align-items: center;
-          width: 275px;
+          width: 260px;
           .tel_icon_sp {
             // width: 22px;
             width: 20px;
@@ -128,7 +128,7 @@ header {
           // }
           .tel_time_sp {
             // width: 100%;
-            width: 280px;
+            width: 230px;
             // line-height: 1.2em!imoirtant;
             box-sizing: border-box;
             .number{
@@ -150,6 +150,14 @@ header {
 
   }
 
+  .tel_span_txt{
+    text-align: center;
+    p {
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      color: white;
+    }
+  }
   .menu_btn {
     width: 60px;
   }
