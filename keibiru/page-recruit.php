@@ -35,10 +35,12 @@ get_header();
             </div>
           </div>
           <img src="<?php echo get_template_directory_uri() ?>/img/Oral_surgery_002.jpg" alt="治療風景">
-          <p class="middle_txt txt_bold midashi00 margin-top">
-            年収800万円以上 歩合可<br>
-            週50時間勤務(応相談)
-          </p>
+          <div style="text-align:center;">
+            <p class="middle_txt txt_bold midashi00 margin-top">
+              年収800万円以上 歩合可<br>
+              週50時間勤務(応相談)
+            </p>
+          </div>
           <p>
             向上心があり、院長からの指導を受け入れ患者様の為に、丁寧な治療を行っていただける先生を希望します。当院では、院長指導の高度な歯科医療を提供できると思います。教育制度充実(根管治療・支台 歯形成・インプラントなど)のため確実に成長できる職場です。稼げる環境です。固定給もしくは歩合制選択可能。自信がついてから歩合制にシフトしてもOK。新卒は１年目固定給２年目から歩合制選択可能。将来的に開業資金を貯めたい方、週1からも歓迎します!臨床経験３年目レベル研修医を除く３年間臨床従事)は70万円~/月完全歩合制で自費も保険も27%〜以上詳しくは応相談!
           </p>
@@ -54,10 +56,12 @@ get_header();
             </div>
           </div>
           <img src="<?php echo get_template_directory_uri() ?>/img/recruit_2.jpg" alt="治療風景">
-          <p class="middle_txt txt_bold midashi00 margin-top">
-            月給25万円以上応相談<br>
-            週40時間勤務（応相談）
-          </p>
+          <div style="text-align:center;">
+            <p class="middle_txt txt_bold midashi00 margin-top">
+              月給25万円以上応相談<br>
+              週40時間勤務（応相談）
+            </p>
+          </div>
           <p>
             歯周病治療、予防歯科治療をベースにした審美歯科、インプラントに力を入れた診察を行っています。歯周病治療や予防歯科、審美歯科やインプラント、これら全て歯科衛生士さんの協力が不可欠です。経験・知識共に豊富な先輩歯科衛生士もいますからあなたも一緒に協力しながら新しい歯科衛生士として充実した毎日を過ごしましましょう！
           </p>

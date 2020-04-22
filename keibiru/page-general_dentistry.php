@@ -191,7 +191,7 @@ get_header();
               患者様にご納得いただけましたら、いよいよ治療をスタートしていきます！もちろん、なるべく削らない、痛くないように治療をすすめていきます。麻酔が必要な治療も、2種類の表面麻酔と最も細い針を使って、患者様がなるべく痛みを感じないように行っていきます。
             </p>
             <div class="flex_between">
-              <img src="<?php echo get_template_directory_uri() ?>/img/008.jpg" alt="治療風景1" class="photo_middle">
+              <img src="<?php echo get_template_directory_uri() ?>/img/008.jpg" alt="治療風景" class="photo_middle">
             <div class="txt_width margin-top-sp">
               <p>
                 また当院では、お口の中のバランスが崩れることによって患者様自身のご負担にならないように、なるべく歯を抜かない治療を行っております。ただし、どんな状況でも残すというわけではありません。歯を残すメリット・デメリットをそれぞれご説明させていただき、ほかの歯の状況も考慮しながら、患者様のご意見を尊重し、一緒に方針を決めていきます。
@@ -219,7 +219,7 @@ get_header();
                   この治療は１歯あたり１回で終わり、お時間はだいたい１５分～３０分程度です。
                 </p>
               </div>
-              <img src="<?php echo get_template_directory_uri() ?>/img/023.jpg" alt="治療風景2" class="photo_middle">
+              <img src="<?php echo get_template_directory_uri() ?>/img/023.jpg" alt="治療風景" class="photo_middle">
             </div>
             <div class="flex_between">
               <div class="txt_width">
@@ -231,7 +231,7 @@ get_header();
                   １回目の治療は、虫歯を削り、型取りまでです。詰め物を入れる場合は、一度、型取りをして技工所で作製します。
                 </p>
               </div>
-              <img src="<?php echo get_template_directory_uri() ?>/img/077.jpg" alt="治療風景3" class="photo_middle">
+              <img src="<?php echo get_template_directory_uri() ?>/img/077.jpg" alt="治療風景" class="photo_middle">
             </div>
             <p class="margin-top">
               ２回目の治療は、１週間前後あけていただき、技工所からでき上がってきた詰め物をつける治療になります。つけるだけではなく、患者様の噛み合わせのために微調整をおこないます。噛み合わせが合わないまま詰め物をつけてしまうと、数日後には痛みがでたり、違和感がずっと残っていたりと、何かしらの症状が出てきてしまうからです。患者様に合わせた微調整は、とても大切な作業なのです。
@@ -248,7 +248,7 @@ get_header();
                   だいたい１～２週間に1度のペースで、受診していただきます。根の中に入れるお薬を交換し、神経を残さず取り除き、根の中をきれいにしていく治療になります。ただし、根の先端に炎症がある場合はこの炎症を完全に取り除いていかなければならないため、月単位での治療が必要になってくることもあります。
                 </p>
               </div>
-              <img src="<?php echo get_template_directory_uri() ?>/img/069.jpg" alt="治療風景4" class="photo_middle">
+              <img src="<?php echo get_template_directory_uri() ?>/img/069.jpg" alt="治療風景" class="photo_middle">
             </div>
             <p class="margin-top padding-bottom">
               根の中がきれいになりましたら、土台をたてて歯の形をしたかぶせものを作製していくという治療になります。

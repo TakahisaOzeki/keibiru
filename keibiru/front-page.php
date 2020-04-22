@@ -387,7 +387,7 @@ get_header();
         </div>
 
         <div class="flex_end">
-          <a href="<?php echo home_url('/shinryou/') ?>" class="more_btn">
+          <a href="<?php echo home_url('/cosmetic_dentistry/') ?>" class="more_btn">
             <p>詳細を見る</p>
           </a>
         </div>
@@ -435,23 +435,6 @@ get_header();
       </div><!-- flex_between -->
 
       <div class="flex_between">
-        <div class="medical_courses">
-          <p class="middle_txt txt_bold">矯正</p>
-          <p class="course_naiyou">「矯正」とは、矯正装置をつかって歯やアゴの骨をゆっくりと動かして、歯並びやかみ合わせを整え、お口の中の環境を改善する歯科治療のひとつです。</p>
-
-        <div class="flex_between cost">
-          <div class="own_cost">
-            <p>自費診療</p>
-          </div>
-          <div class="space">
-            <p class="kara_cost"></p>
-          </div>
-        </div>
-
-        <a href="<?php echo home_url('/ortho/') ?>" class="more_btn">
-          <p>詳細を見る</p>
-        </a>
-        </div><!-- medical_courses -->
 
         <div class="medical_courses">
           <p class="middle_txt txt_bold">口腔外科</p>
@@ -471,6 +454,23 @@ get_header();
         </a>
         </div><!-- medical_courses -->
 
+        <div class="medical_courses">
+          <p class="middle_txt txt_bold">矯正</p>
+          <p class="course_naiyou">「矯正」とは、矯正装置をつかって歯やアゴの骨をゆっくりと動かして、歯並びやかみ合わせを整え、お口の中の環境を改善する歯科治療のひとつです。</p>
+
+          <div class="flex_between cost">
+            <div class="own_cost">
+              <p>自費診療</p>
+            </div>
+            <div class="space">
+              <p class="kara_cost"></p>
+            </div>
+          </div>
+
+          <a href="<?php echo home_url('/ortho/') ?>" class="more_btn">
+            <p>詳細を見る</p>
+          </a>
+        </div><!-- medical_courses -->
         <div class="medical_courses pc" style="background-color:#F2F9F9;">
 
         </div>
