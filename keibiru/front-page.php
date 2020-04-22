@@ -95,7 +95,7 @@ get_header();
               <th class="txt_bold holiday">祝</th>
             </tr>
             <tr>
-              <th>09:00~13:00</th>
+              <th>09:00〜13:00</th>
               <td>●</td>
               <td>●</td>
               <td>●</td>
@@ -106,7 +106,7 @@ get_header();
               <td class="holiday">●</td>
             </tr>
             <tr>
-              <th>15:00~20:00</th>
+              <th>15:00〜20:00</th>
               <td>●</td>
               <td>●</td>
               <td>●</td>
