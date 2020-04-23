@@ -13,12 +13,15 @@ footer {
     }
   }
   .tel {
-    width: 285px;
+    width: 292px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-top: 10px;
+    @media screen and (min-width: 768px) and (max-width:1200px ) {
+      width: 400px;
+    }
     .tel_icon {
       width: 30px;
     }
