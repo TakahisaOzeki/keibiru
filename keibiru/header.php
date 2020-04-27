@@ -210,9 +210,12 @@
                 <div class="number_cover">
                   <img class="tel_icon_sp" src="<?php echo get_template_directory_uri() ?>/img/tel_icon_sp.png" alt="TELアイコン">
                   <div class="tel_time_sp">
-                  <p class="number">042-337-4388<br><span>電話受付 9:00〜20:00【土〜17:30/日祝〜16:00】</spna></p>
+                  <p class="number">042-337-4388</p>
                   </div>
                 </div>
+              </div>
+              <div class="tel_span_txt">
+                <p>電話受付 9:00〜20:00【土〜17:30/日祝〜16:00】</p>
               </div>
             </a>
           </div>

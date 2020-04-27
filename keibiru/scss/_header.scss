@@ -104,7 +104,8 @@ header {
           // font-size: 13px;
           font-size: 12px;
           width: 65px;
-          letter-spacing: normal;
+          // letter-spacing: normal;
+          letter-spacing: -0.05em;
           line-height: 1.4em!important;
           text-align: center;
           border: 1px solid white;
@@ -115,6 +116,7 @@ header {
           display: flex;
           justify-content: space-between;
           align-items: center;
+          width: 260px;
           .tel_icon_sp {
             // width: 22px;
             width: 20px;
@@ -125,8 +127,10 @@ header {
           //   color: white;
           // }
           .tel_time_sp {
-            width: 100%;
+            // width: 100%;
+            width: 230px;
             // line-height: 1.2em!imoirtant;
+            box-sizing: border-box;
             .number{
               font-size: 30px;
               color: white;
@@ -135,6 +139,7 @@ header {
               span {
                 font-size: 12px;
                 // letter-spacing: normal;
+                display: block;
                 letter-spacing: -0.05em;
               }
             }
@@ -145,6 +150,14 @@ header {
 
   }
 
+  .tel_span_txt{
+    text-align: center;
+    p {
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      color: white;
+    }
+  }
   .menu_btn {
     width: 60px;
   }
