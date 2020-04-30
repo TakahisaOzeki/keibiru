@@ -272,7 +272,7 @@ get_header();
         <div class="medical_courses">
           <div class="">
             <p class="middle_txt txt_bold">虫歯治療</p>
-            <p class="course_naiyou">「虫歯治療」とは、歯垢の中の「細菌（ミュータンス菌）」がつくりだす酸によって、ダメージを受けてしまった歯牙 の修復を主とする歯科診療のことです。</p>
+            <p class="course_naiyou">「虫歯治療」とは、歯垢の中の「細菌（ミュータンス菌）」がつくりだす酸によって、ダメージを受けてしまった歯牙 の修復を主とする歯科診療です。</p>
 
             <div class="flex_between cost">
               <div class="insurance">
@@ -313,7 +313,7 @@ get_header();
 
         <div class="medical_courses">
           <p class="middle_txt txt_bold">小児歯科</p>
-          <p class="course_naiyou">「小児歯科」とは、乳歯が生えはじめる時期から永久歯のかみ合わせが完成するまでの間、お子さまのお口の健康増進を目指す歯科診療科のひとつです。</p>
+          <p class="course_naiyou">「小児歯科」とは、乳歯が生えはじめる時期から永久歯のかみ合わせが完成するまでの間、お子さまのお口の健康増進を目指す歯科診療です。</p>
 
         <div class="flex_between cost">
           <div class="insurance">
@@ -355,7 +355,7 @@ get_header();
       <div class="flex_between">
         <div class="medical_courses">
           <p class="middle_txt txt_bold">インプラント</p>
-          <p class="course_naiyou">「インプラント」とは、虫歯や歯肉の病気、あるいは怪我などのアクシデントによって、失われてしまった天然の歯を補うための歯科治療のひとつです。</p>
+          <p class="course_naiyou">「インプラント」とは、虫歯や歯肉の病気、あるいは怪我などのアクシデントによって、失われてしまった天然の歯を補うための歯科治療です。</p>
 
         <div class="flex_between cost">
           <div class="space">
@@ -375,7 +375,7 @@ get_header();
 
         <div class="medical_courses">
           <p class="middle_txt txt_bold">審美歯科</p>
-          <p class="course_naiyou">「審美歯科」とは、ホワイトニングやセラミック治療など、歯並びや美しく健康的な歯茎を形成することを目的とした総合的な歯科診療のひとつです。</p>
+          <p class="course_naiyou">「審美歯科」とは、ホワイトニングやセラミック治療など、歯並びや美しく健康的な歯茎を形成することを目的とした総合的な歯科診療です。</p>
 
         <div class="flex_between cost">
           <div class="space">
@@ -395,7 +395,7 @@ get_header();
 
         <div class="medical_courses">
           <p class="middle_txt txt_bold">予防歯科</p>
-          <p class="course_naiyou">「予防歯科」とは、歯とお口の健康を積極的に守るために定期検診やPMTCにより虫歯や歯周病、歯槽膿漏などにかかる前に予防する歯科診療のひとつです。</p>
+          <p class="course_naiyou">「予防歯科」とは、歯とお口の健康を積極的に守るために定期検診やPMTCにより虫歯や歯周病、歯槽膿漏などにかかる前に予防する歯科診療です。</p>
 
         <div class="flex_between cost">
           <div class="insurance">
@@ -438,7 +438,7 @@ get_header();
 
         <div class="medical_courses">
           <p class="middle_txt txt_bold">口腔外科</p>
-          <p class="course_naiyou">「口腔外科」とは親知らずや顎関節症を含む、口腔（こうくう：口の中のこと）と顎（あご）、そして顔面付近の疾患を取り扱う歯科診療のひとつです。</p>
+          <p class="course_naiyou">「口腔外科」とは親知らずや顎関節症を含む、口腔（こうくう：口の中のこと）と顎（あご）、そして顔面付近の疾患を取り扱う歯科診療です。</p>
 
         <div class="flex_between cost">
           <div class="insurance">
@@ -456,7 +456,7 @@ get_header();
 
         <div class="medical_courses">
           <p class="middle_txt txt_bold">矯正</p>
-          <p class="course_naiyou">「矯正」とは、矯正装置をつかって歯やアゴの骨をゆっくりと動かして、歯並びやかみ合わせを整え、お口の中の環境を改善する歯科治療のひとつです。</p>
+          <p class="course_naiyou">「矯正」とは、矯正装置をつかって歯やアゴの骨をゆっくりと動かして、歯並びやかみ合わせを整え、お口の中の環境を改善する歯科治療です。</p>
 
           <div class="flex_between cost">
             <div class="own_cost">
