@@ -68,7 +68,7 @@ get_header();
     </div>
 
 
-    <div class="flex_between">
+    <div class="flex_between padding-bottom">
       <img class="photo_middle" src="<?php echo get_template_directory_uri() ?>/img/074.jpg" alt="診察室">
       <img class="photo_middle" src="<?php echo get_template_directory_uri() ?>/img/094.jpg" alt="受付・待合室">
     </div>
@@ -198,7 +198,7 @@ get_header();
     </div><!-- wrap -->
   </div><!-- background_color -->
 
-  <div class="wrap">
+  <div class="wrap padding-bottom">
     <div class="category_title">
       <p class="category_txt midashi01">お知らせ</p>
       <!-- <p class="small_txt">News from a hospital</p> -->
@@ -482,7 +482,7 @@ get_header();
     </div><!-- wrap -->
   </div><!-- background_color -->
 
-  <div class="wrap">
+  <div class="wrap padding-bottom">
     <div class="pc">
       <div class="title">
         <p class="midashi01">けいびる歯科医院が選ばれる理由</p>
